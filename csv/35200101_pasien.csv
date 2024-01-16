@@ -1,0 +1,16 @@
+id_pasien;nama_pasien;address;email;phone;poin
+1;John Doe;123 Main Street;john.doe@email.com;123-456-7890;50
+2;Jane Smith;456 Oak Avenue;jane.smith@email.com;987-654-3210;30
+3;Bob Johnson;789 Pine Lane;bob.johnson@email.com;555-123-4567;20
+4;Alice Brown;101 Cedar Road;alice.brown@email.com;111-222-3333;10
+5;Charlie Wilson;202 Elm Street;charlie.wilson@email.com;444-555-6666;40
+6;Diana Miller;303 Birch Boulevard;diana.miller@email.com;777-888-9999;25
+7;Evan Davis;404 Maple Drive;evan.davis@email.com;999-888-7777;15
+8;Fiona White;505 Walnut Circle;fiona.white@email.com;666-555-4444;35
+9;George Lee;606 Pineapple Avenue;george.lee@email.com;222-333-4444;45
+10;Helen Taylor;707 Strawberry Lane;helen.taylor@email.com;888-777-6666;5
+11;Isaac Green;808 Raspberry Road;isaac.green@email.com;444-333-2222;60
+12;Jessica Black;909 Blueberry Boulevard;jessica.black@email.com;777-666-5555;15
+13;Kevin Gray;111 Cherry Drive;kevin.gray@email.com;333-222-1111;25
+14;Laura Adams;222 Grape Lane;laura.adams@email.com;555-666-7777;40
+15;Michael Turner;333 Lemon Road;michael.turner@email.com;999-888-7777;10

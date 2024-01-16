@@ -1,0 +1,11 @@
+id_obat;id_kategori_obat;kode_obat;nama_obat;description;qty;harga_obat
+1;1;OBT001;Parasetamol;parasetamol123;100;100000
+2;2;OBT002;Theophylline;theophylline123;100;200000
+3;3;OBT003;Amoksisilin;amoksislin123;100;300000
+4;4;OBT004;Lexotan;lexotan123;100;400000
+5;5;OBT005;Stimuno;stimuno123;100;500000
+6;6;OBT006;Tolak Angin;tolakangin123;100;100000
+7;7;OBT007;Ambeven;ambeven123;100;200000
+8;1;OBT008;Ferrosulfat;ferrosulfat123;100;300000
+9;2;OBT009;Tremenza;tremenza123;100;400000
+10;3;OBT010;Mefinal;mefinal123;100;500000

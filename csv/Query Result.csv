@@ -1,0 +1,41 @@
+ID Transaksi;ID Pasien;Nama Pasien;ID Dokter;Nama Dokter;ID Perawat;Nama Perawat;NO Catatan;Catatan;Tanggal;Kode Obat;Nama Obat;Harga Obat;Qty;Total Harga Obat;Total Harga Pemeriksaan;Total Pembayaran
+1;1;John Doe;1;Dr. John Smith;1;Nina Johnson;CTM001;Flu;15/01/2023;OBT001;Parasetamol;100000;8;800000;300000;1100000
+2;2;Jane Smith;2;Dr. Jane Doe;2;Mike Davis;CTM002;Hypertension;20/01/2023;OBT002;Theophylline;200000;4;800000;300000;1100000
+3;3;Bob Johnson;3;Dr. Robert Johnson;3;Sara White;CTM003;Diabetes;05/02/2023;OBT003;Amoksisilin;300000;8;2400000;300000;2700000
+4;4;Alice Brown;4;Dr. Alice Brown;4;Tom Brown;CTM004;Asthma;10/02/2023;OBT004;Lexotan;400000;3;1200000;300000;1500000
+5;5;Charlie Wilson;5;Dr. Charlie Wilson;5;Emily Wilson;CTM005;Migraine;25/02/2023;OBT005;Stimuno;500000;6;3000000;300000;3300000
+6;6;Diana Miller;6;Dr. Diana Miller;6;Alex Miller;CTM006;Gastroenteritis;05/03/2023;OBT006;Tolak Angin;100000;3;300000;300000;600000
+7;7;Evan Davis;7;Dr. Evan Davis;7;Rachel Davis;CTM007;Bronchitis;15/03/2023;OBT007;Ambeven;200000;5;1000000;300000;1300000
+8;8;Fiona White;8;Dr. Fiona White;8;Chris Lee;CTM008;Allergic Rhinitis;25/03/2023;OBT008;Ferrosulfat;300000;1;300000;300000;600000
+9;9;George Lee;9;Dr. George Lee;9;Lily Taylor;CTM009;Osteoarthritis;05/04/2023;OBT009;Tremenza;400000;4;1600000;300000;1900000
+10;10;Helen Taylor;10;Dr. Helen Taylor;10;Mark Johnson;CTM010;Pneumonia;15/04/2023;OBT010;Mefinal;500000;6;3000000;300000;3300000
+11;11;Isaac Green;1;Dr. John Smith;1;Nina Johnson;CTM011;Eczema;17/01/2023;OBT001;Parasetamol;100000;6;600000;300000;900000
+12;12;Jessica Black;2;Dr. Jane Doe;2;Mike Davis;CTM012;Gastritis;22/01/2023;OBT002;Theophylline;200000;7;1400000;300000;1700000
+13;13;Kevin Gray;3;Dr. Robert Johnson;3;Sara White;CTM013;Urinary Tract Infection;07/02/2023;OBT003;Amoksisilin;300000;2;600000;300000;900000
+14;14;Laura Adams;4;Dr. Alice Brown;4;Tom Brown;CTM014;Anxiety Disorder;12/02/2023;OBT004;Lexotan;400000;10;4000000;300000;4300000
+15;15;Michael Turner;5;Dr. Charlie Wilson;5;Emily Wilson;CTM015;Rheumatoid Arthritis;27/02/2023;OBT005;Stimuno;500000;6;3000000;300000;3300000
+16;1;John Doe;6;Dr. Diana Miller;6;Alex Miller;CTM016;Sinusitis;07/03/2023;OBT006;Tolak Angin;100000;10;1000000;300000;1300000
+17;2;Jane Smith;7;Dr. Evan Davis;7;Rachel Davis;CTM017;Chronic Obstructive Pulmonary Disease (COPD);17/03/2023;OBT007;Ambeven;200000;6;1200000;300000;1500000
+18;3;Bob Johnson;8;Dr. Fiona White;8;Chris Lee;CTM018;Peptic Ulcer;27/03/2023;OBT008;Ferrosulfat;300000;8;2400000;300000;2700000
+19;4;Alice Brown;9;Dr. George Lee;9;Lily Taylor;CTM019;Depression;07/04/2023;OBT009;Tremenza;400000;3;1200000;300000;1500000
+20;5;Charlie Wilson;10;Dr. Helen Taylor;10;Mark Johnson;CTM020;Osteoporosis;17/04/2023;OBT010;Mefinal;500000;1;500000;300000;800000
+21;6;Diana Miller;1;Dr. John Smith;1;Nina Johnson;CTM021;Coronary Artery Disease;19/01/2023;OBT001;Parasetamol;100000;3;300000;300000;600000
+22;7;Evan Davis;2;Dr. Jane Doe;2;Mike Davis;CTM022;Gout;24/01/2023;OBT002;Theophylline;200000;8;1600000;300000;1900000
+23;8;Fiona White;3;Dr. Robert Johnson;3;Sara White;CTM023;Stroke;09/02/2023;OBT003;Amoksisilin;300000;5;1500000;300000;1800000
+24;9;George Lee;4;Dr. Alice Brown;4;Tom Brown;CTM024;Hepatitis;14/02/2023;OBT004;Lexotan;400000;9;3600000;300000;3900000
+25;10;Helen Taylor;5;Dr. Charlie Wilson;5;Emily Wilson;CTM025;Hyperthyroidism;01/03/2023;OBT005;Stimuno;500000;9;4500000;300000;4800000
+26;11;Isaac Green;6;Dr. Diana Miller;6;Alex Miller;CTM026;Hypothyroidism;09/03/2023;OBT006;Tolak Angin;100000;2;200000;300000;500000
+27;12;Jessica Black;7;Dr. Evan Davis;7;Rachel Davis;CTM027;Lupus;19/03/2023;OBT007;Ambeven;200000;3;600000;300000;900000
+28;13;Kevin Gray;8;Dr. Fiona White;8;Chris Lee;CTM028;Multiple Sclerosis;29/03/2023;OBT008;Ferrosulfat;300000;2;600000;300000;900000
+29;14;Laura Adams;9;Dr. George Lee;9;Lily Taylor;CTM029;Parkinson's Disease;09/04/2023;OBT009;Tremenza;400000;7;2800000;300000;3100000
+30;15;Michael Turner;10;Dr. Helen Taylor;10;Mark Johnson;CTM030;Schizophrenia;19/04/2023;OBT010;Mefinal;500000;7;3500000;300000;3800000
+31;1;John Doe;1;Dr. John Smith;1;Nina Johnson;CTM031;Obsessive-Compulsive Disorder (OCD);21/01/2023;OBT001;Parasetamol;100000;9;900000;300000;1200000
+32;2;Jane Smith;2;Dr. Jane Doe;2;Mike Davis;CTM032;Attention Deficit Hyperactivity Disorder (ADHD);26/01/2023;OBT002;Theophylline;200000;8;1600000;300000;1900000
+33;3;Bob Johnson;3;Dr. Robert Johnson;3;Sara White;CTM033;Bipolar Disorder;11/02/2023;OBT003;Amoksisilin;300000;8;2400000;300000;2700000
+34;4;Alice Brown;4;Dr. Alice Brown;4;Tom Brown;CTM034;Post-Traumatic Stress Disorder (PTSD);16/02/2023;OBT004;Lexotan;400000;4;1600000;300000;1900000
+35;5;Charlie Wilson;5;Dr. Charlie Wilson;5;Emily Wilson;CTM035;Alzheimer's Disease;03/03/2023;OBT005;Stimuno;500000;2;1000000;300000;1300000
+36;6;Diana Miller;6;Dr. Diana Miller;6;Alex Miller;CTM036;Cancer;11/03/2023;OBT006;Tolak Angin;100000;3;300000;300000;600000
+37;7;Evan Davis;7;Dr. Evan Davis;7;Rachel Davis;CTM037;Chronic Kidney Disease;21/03/2023;OBT007;Ambeven;200000;2;400000;300000;700000
+38;8;Fiona White;8;Dr. Fiona White;8;Chris Lee;CTM038;HIV/AIDS;31/03/2023;OBT008;Ferrosulfat;300000;5;1500000;300000;1800000
+39;9;George Lee;9;Dr. George Lee;9;Lily Taylor;CTM039;Epilepsy;11/04/2023;OBT009;Tremenza;400000;2;800000;300000;1100000
+40;10;Helen Taylor;10;Dr. Helen Taylor;10;Mark Johnson;CTM040;Mental Retardation;21/04/2023;OBT010;Mefinal;500000;5;2500000;300000;2800000

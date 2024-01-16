@@ -1,0 +1,41 @@
+id_catatan;id_transaksi;no_catatan;catatan
+1;1;CTM001;Flu
+2;2;CTM002;Hypertension
+3;3;CTM003;Diabetes
+4;4;CTM004;Asthma
+5;5;CTM005;Migraine
+6;6;CTM006;Gastroenteritis
+7;7;CTM007;Bronchitis
+8;8;CTM008;Allergic Rhinitis
+9;9;CTM009;Osteoarthritis
+10;10;CTM010;Pneumonia
+11;11;CTM011;Eczema
+12;12;CTM012;Gastritis
+13;13;CTM013;Urinary Tract Infection
+14;14;CTM014;Anxiety Disorder
+15;15;CTM015;Rheumatoid Arthritis
+16;16;CTM016;Sinusitis
+17;17;CTM017;Chronic Obstructive Pulmonary Disease (COPD)
+18;18;CTM018;Peptic Ulcer
+19;19;CTM019;Depression
+20;20;CTM020;Osteoporosis
+21;21;CTM021;Coronary Artery Disease
+22;22;CTM022;Gout
+23;23;CTM023;Stroke
+24;24;CTM024;Hepatitis
+25;25;CTM025;Hyperthyroidism
+26;26;CTM026;Hypothyroidism
+27;27;CTM027;Lupus
+28;28;CTM028;Multiple Sclerosis
+29;29;CTM029;Parkinson's Disease
+30;30;CTM030;Schizophrenia
+31;31;CTM031;Obsessive-Compulsive Disorder (OCD)
+32;32;CTM032;Attention Deficit Hyperactivity Disorder (ADHD)
+33;33;CTM033;Bipolar Disorder
+34;34;CTM034;Post-Traumatic Stress Disorder (PTSD)
+35;35;CTM035;Alzheimer's Disease
+36;36;CTM036;Cancer
+37;37;CTM037;Chronic Kidney Disease
+38;38;CTM038;HIV/AIDS
+39;39;CTM039;Epilepsy
+40;40;CTM040;Mental Retardation
